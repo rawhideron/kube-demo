@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+echo "Place variables here"
+
 NS1="NS1"
 NS2="NS2"
 NODE_IP="10.0.20.55"
